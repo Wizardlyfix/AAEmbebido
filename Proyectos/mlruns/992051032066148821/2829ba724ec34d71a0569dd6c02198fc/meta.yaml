@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/wizard/Library/CloudStorage/OneDrive-INSTITUTOTECNOLOGICOMETROPOLITANO-ITM/AAEmbebido/Proyectos/mlruns/992051032066148821/2829ba724ec34d71a0569dd6c02198fc/artifacts
+end_time: 1707946229458
+entry_point_name: ''
+experiment_id: '992051032066148821'
+lifecycle_stage: active
+run_id: 2829ba724ec34d71a0569dd6c02198fc
+run_name: Elastic Net
+run_uuid: 2829ba724ec34d71a0569dd6c02198fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707946229413
+status: 3
+tags: []
+user_id: wizard

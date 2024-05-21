@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/wizard/Library/CloudStorage/OneDrive-INSTITUTOTECNOLOGICOMETROPOLITANO-ITM/AAEmbebido/Proyectos/mlruns/992051032066148821/3d7a14cfa97d4992b52122993de81b4b/artifacts
+end_time: 1707946227923
+entry_point_name: ''
+experiment_id: '992051032066148821'
+lifecycle_stage: active
+run_id: 3d7a14cfa97d4992b52122993de81b4b
+run_name: AdaBoost Regressor
+run_uuid: 3d7a14cfa97d4992b52122993de81b4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707946227878
+status: 3
+tags: []
+user_id: wizard

@@ -1,0 +1,2 @@
+*.pack filter=lfs diff=lfs merge=lfs -text
+Proyecto_1/V2/mlruns/112870407740412576/3f129bca3bbb4d56a22f8ffaee6eac49/artifacts/model/model.pkl filter=lfs diff=lfs merge=lfs -text

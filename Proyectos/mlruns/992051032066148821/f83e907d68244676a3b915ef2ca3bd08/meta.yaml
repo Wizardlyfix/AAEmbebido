@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/wizard/Library/CloudStorage/OneDrive-INSTITUTOTECNOLOGICOMETROPOLITANO-ITM/AAEmbebido/Proyectos/mlruns/992051032066148821/f83e907d68244676a3b915ef2ca3bd08/artifacts
+end_time: 1707945371278
+entry_point_name: ''
+experiment_id: '992051032066148821'
+lifecycle_stage: active
+run_id: f83e907d68244676a3b915ef2ca3bd08
+run_name: Huber Regressor
+run_uuid: f83e907d68244676a3b915ef2ca3bd08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707945371201
+status: 3
+tags: []
+user_id: wizard

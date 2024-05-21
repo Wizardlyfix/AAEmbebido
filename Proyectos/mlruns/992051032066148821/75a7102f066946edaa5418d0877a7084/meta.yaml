@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/wizard/Library/CloudStorage/OneDrive-INSTITUTOTECNOLOGICOMETROPOLITANO-ITM/AAEmbebido/Proyectos/mlruns/992051032066148821/75a7102f066946edaa5418d0877a7084/artifacts
+end_time: 1707946378835
+entry_point_name: ''
+experiment_id: '992051032066148821'
+lifecycle_stage: active
+run_id: 75a7102f066946edaa5418d0877a7084
+run_name: Decision Tree Regressor
+run_uuid: 75a7102f066946edaa5418d0877a7084
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707946378554
+status: 3
+tags: []
+user_id: wizard

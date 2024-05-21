@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/wizard/Library/CloudStorage/OneDrive-INSTITUTOTECNOLOGICOMETROPOLITANO-ITM/AAEmbebido/Proyectos/mlruns/992051032066148821/b93c5406ebe84af5b2cc167e031c1971/artifacts
+end_time: 1707944510389
+entry_point_name: ''
+experiment_id: '992051032066148821'
+lifecycle_stage: active
+run_id: b93c5406ebe84af5b2cc167e031c1971
+run_name: Extra Trees Regressor
+run_uuid: b93c5406ebe84af5b2cc167e031c1971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707944510309
+status: 3
+tags: []
+user_id: wizard

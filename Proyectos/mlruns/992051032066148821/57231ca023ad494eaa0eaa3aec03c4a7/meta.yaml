@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/wizard/Library/CloudStorage/OneDrive-INSTITUTOTECNOLOGICOMETROPOLITANO-ITM/AAEmbebido/Proyectos/mlruns/992051032066148821/57231ca023ad494eaa0eaa3aec03c4a7/artifacts
+end_time: 1707944512842
+entry_point_name: ''
+experiment_id: '992051032066148821'
+lifecycle_stage: active
+run_id: 57231ca023ad494eaa0eaa3aec03c4a7
+run_name: K Neighbors Regressor
+run_uuid: 57231ca023ad494eaa0eaa3aec03c4a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707944512772
+status: 3
+tags: []
+user_id: wizard

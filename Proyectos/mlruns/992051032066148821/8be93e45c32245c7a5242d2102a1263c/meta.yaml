@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/wizard/Library/CloudStorage/OneDrive-INSTITUTOTECNOLOGICOMETROPOLITANO-ITM/AAEmbebido/Proyectos/mlruns/992051032066148821/8be93e45c32245c7a5242d2102a1263c/artifacts
+end_time: 1707945370368
+entry_point_name: ''
+experiment_id: '992051032066148821'
+lifecycle_stage: active
+run_id: 8be93e45c32245c7a5242d2102a1263c
+run_name: Bayesian Ridge
+run_uuid: 8be93e45c32245c7a5242d2102a1263c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707945370306
+status: 3
+tags: []
+user_id: wizard

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/wizard/Library/CloudStorage/OneDrive-INSTITUTOTECNOLOGICOMETROPOLITANO-ITM/AAEmbebido/Proyectos/mlruns/992051032066148821/1507460007674bdea8633246591f979a/artifacts
+end_time: 1707944511222
+entry_point_name: ''
+experiment_id: '992051032066148821'
+lifecycle_stage: active
+run_id: 1507460007674bdea8633246591f979a
+run_name: Ridge Regression
+run_uuid: 1507460007674bdea8633246591f979a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707944511140
+status: 3
+tags: []
+user_id: wizard

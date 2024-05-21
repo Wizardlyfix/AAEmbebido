@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/wizard/Library/CloudStorage/OneDrive-INSTITUTOTECNOLOGICOMETROPOLITANO-ITM/AAEmbebido/Proyectos/mlruns/992051032066148821/89f5168fd9834193aae492cd52e89523/artifacts
+end_time: 1707944510600
+entry_point_name: ''
+experiment_id: '992051032066148821'
+lifecycle_stage: active
+run_id: 89f5168fd9834193aae492cd52e89523
+run_name: Lasso Regression
+run_uuid: 89f5168fd9834193aae492cd52e89523
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707944510518
+status: 3
+tags: []
+user_id: wizard

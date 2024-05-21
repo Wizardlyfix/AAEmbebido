@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/wizard/Library/CloudStorage/OneDrive-INSTITUTOTECNOLOGICOMETROPOLITANO-ITM/AAEmbebido/Proyectos/mlruns/992051032066148821/a9016b1aa5854a13b35ca0aa92ca31ee/artifacts
+end_time: 1707946227606
+entry_point_name: ''
+experiment_id: '992051032066148821'
+lifecycle_stage: active
+run_id: a9016b1aa5854a13b35ca0aa92ca31ee
+run_name: Gradient Boosting Regressor
+run_uuid: a9016b1aa5854a13b35ca0aa92ca31ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707946227273
+status: 3
+tags: []
+user_id: wizard

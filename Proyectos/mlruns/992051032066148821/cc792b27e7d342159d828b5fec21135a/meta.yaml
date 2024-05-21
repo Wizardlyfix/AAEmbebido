@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/wizard/Library/CloudStorage/OneDrive-INSTITUTOTECNOLOGICOMETROPOLITANO-ITM/AAEmbebido/Proyectos/mlruns/992051032066148821/cc792b27e7d342159d828b5fec21135a/artifacts
+end_time: 1707946227708
+entry_point_name: ''
+experiment_id: '992051032066148821'
+lifecycle_stage: active
+run_id: cc792b27e7d342159d828b5fec21135a
+run_name: Random Forest Regressor
+run_uuid: cc792b27e7d342159d828b5fec21135a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707946227669
+status: 3
+tags: []
+user_id: wizard

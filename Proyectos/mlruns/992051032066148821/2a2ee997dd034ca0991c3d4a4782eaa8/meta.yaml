@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/wizard/Library/CloudStorage/OneDrive-INSTITUTOTECNOLOGICOMETROPOLITANO-ITM/AAEmbebido/Proyectos/mlruns/992051032066148821/2a2ee997dd034ca0991c3d4a4782eaa8/artifacts
+end_time: 1707944568458
+entry_point_name: ''
+experiment_id: '992051032066148821'
+lifecycle_stage: active
+run_id: 2a2ee997dd034ca0991c3d4a4782eaa8
+run_name: Light Gradient Boosting Machine
+run_uuid: 2a2ee997dd034ca0991c3d4a4782eaa8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707944568137
+status: 3
+tags: []
+user_id: wizard

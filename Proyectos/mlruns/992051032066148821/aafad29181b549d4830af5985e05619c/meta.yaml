@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/wizard/Library/CloudStorage/OneDrive-INSTITUTOTECNOLOGICOMETROPOLITANO-ITM/AAEmbebido/Proyectos/mlruns/992051032066148821/aafad29181b549d4830af5985e05619c/artifacts
+end_time: 1707944512267
+entry_point_name: ''
+experiment_id: '992051032066148821'
+lifecycle_stage: active
+run_id: aafad29181b549d4830af5985e05619c
+run_name: Passive Aggressive Regressor
+run_uuid: aafad29181b549d4830af5985e05619c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707944512188
+status: 3
+tags: []
+user_id: wizard
